@@ -1,3 +1,6 @@
 How to use the Bookmark:
 
-Download the wordle.inetloc file and drag it to your desktop, then drag it to your bookmark bar. Rename it, go to wordle and click it.
+Download the code from here: https://github.com/quintindunn/Wordle-Cheat/archive/refs/heads/main.zip
+Unpack the zip file
+Drag the Wordle.inetloc file to your desktop
+Drag the file to your bookmark bar.
