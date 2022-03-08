@@ -211,6 +211,6 @@ if (archive_text)
 }
 else
 {
-    write(getWord(getDay()+1));
+    write(getWord(getDay()+2));
 }
 enter.click();   
