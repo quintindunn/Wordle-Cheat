@@ -201,7 +201,7 @@ function getDay(){
 
 function archive_word(){
     day = archive_text.innerText.split(' ')[2];
-    write(getWord(parseInt(day)));
+    write(getWord(parseInt(day) + 2));
 }
 
 
