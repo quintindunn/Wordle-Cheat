@@ -1,3 +1,4 @@
+var offset = 6;
 archive_text = document.querySelector("#root > div > div > header > h1")
 
 if (archive_text)
@@ -211,6 +212,6 @@ if (archive_text)
 }
 else
 {
-    write(getWord(getDay()+3));
+    write(getWord(getDay()+offset));
 }
 enter.click();   
